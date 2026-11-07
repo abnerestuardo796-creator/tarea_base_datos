@@ -12,6 +12,12 @@ INSERT INTO family VALUES (2, 'Laura Patricia Menchu Barreno', 'Femenino','1972-
 INSERT INTO family VALUES (3, 'Jorge Wotweli Ortiz Menchu', 'Masculino','1997-10-12','true');
 INSERT INTO family VALUES (4, 'Abner Estuardo Ortiz Menchu', 'Masculino','1999-09-08','true');
 INSERT INTO family VALUES (5, 'Moises Ordoñez Salguero', 'Masculino','1972-05-12','false');
+INSERT INTO family VALUES (6, 'Rosio Gisell Ordoñes Menchu', 'Femenino','2000-04-27','false');
+INSERT INTO family VALUES (7, 'Francisco Javier Alonzo Menchu', 'Masculino','2001-06-02','false');
+INSERT INTO family VALUES (8, 'Rosa Elvira Menchu Salguero', 'Femenino','1976-02-12','true');
+INSERT INTO family VALUES (9, 'Jose Pablo Alonzo Menchu', 'Masculino','1999-12-27','false');
+INSERT INTO family VALUES (10, 'Ismael Moises Ordoñez Menchu', 'Masculino','1992-05-12','false');
+
 
 -- fetch some values
 SELECT * FROM family
